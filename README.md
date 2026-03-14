@@ -1,146 +1,4 @@
-# \# Cybersecurity Learning Portfolio
-
-# 
-
-# Welcome to my cybersecurity learning portfolio.
-
-# This repository documents my practical progress in \*\*Linux, networking, system security, and defensive/offensive security practices\*\*.
-
-# 
-
-# The goal of this repository is to build strong \*\*hands-on cybersecurity skills\*\* through structured labs, scripting, and practical projects.
-
-# 
-
-# \---
-
-# 
-
-# \# Learning Roadmap
-
-# 
-
-# My learning path follows these main stages:
-
-# 
-
-# 1\. \*\*Technical Foundations\*\*
-
-# &#x20;  Understanding how systems and networks work (Linux, networking basics, virtualization).
-
-# 
-
-# 2\. \*\*System \& Network Security\*\*
-
-# &#x20;  Learning how systems and networks are secured and where vulnerabilities appear.
-
-# 
-
-# 3\. \*\*Offensive Security\*\*
-
-# &#x20;  Understanding how attacks work in order to better defend systems.
-
-# 
-
-# 4\. \*\*Defense \& SOC\*\*
-
-# &#x20;  Analyzing logs, detecting suspicious activity, and understanding defensive tools.
-
-# 
-
-# 5\. \*\*Automation \& Scripting\*\*
-
-# &#x20;  Writing scripts to automate security tasks and analysis.
-
-# 
-
-# 6\. \*\*Practice \& Projects\*\*
-
-# &#x20;  Building practical projects and documenting real security workflows.
-
-# 
-
-# \---
-
-# 
-
-# \# Repository Structure
-
-# 
-
-# ```
-
-
-
-##### 
-
-##### CyberSecPortfolio/
-
-##### ├── README.md
-
-##### ├── labs/
-
-##### │   ├── 01-foundations/
-
-##### │   ├── 02-system-network-security/
-
-##### │   ├── 03-offensive-security/
-
-##### │   └── 04-defense-soc/
-
-##### ├── scripts/
-
-##### └── projects/
-
-# ```
-
-# 
-
-# \---
-
-# 
-
-# \# Labs
-
-# 
-
-# Labs are organized to follow the learning roadmap.
-
-# 
-
-# Examples include:
-
-# \* Linux boot process analysis
-
-
-
-# 
-
-# Each lab contains:
-
-# 
-
-# \* Objective
-
-# \* Commands used
-
-# \* Observations
-
-# \* Screenshots
-
-# \* Short technical analysis
-
-# 
-
-# \---
-
-# 
-
-# \----------------------------------------------------------------------------------
-
-
-
-\# Cybersecurity Learning Portfolio
+###### Portfolio d’Apprentissage en Cybersécurité
 
 
 
@@ -210,27 +68,37 @@ Mon parcours suit ces étapes principales :
 
 
 
-##### CyberSecPortfolio/
+CyberSecPortfolio/
 
-##### ├── README.md
+├── README.md                     # FR
 
-##### ├── labs/
+├── README\_EN.md                  # EN
 
-##### │   ├── 01-foundations/
+├── labs/
 
-##### │   ├── 02-system-network-security/
+│   ├── fr/
 
-##### │   ├── 03-offensive-security/
+│   │   ├── 01-foundations/
 
-##### │   └── 04-defense-soc/
+│   │   ├── 02-system-network-security/
 
-##### ├── scripts/
+│   │   ├── 03-offensive-security/
 
-##### └── projects/
+│   │   └── 04-defense-soc/
 
+│   └── en/
 
+│       ├── 01-foundations/
 
+│       ├── 02-system-network-security/
 
+│       ├── 03-offensive-security/
+
+│       └── 04-defense-soc/
+
+├── scripts/                      # Scripts communs FR/EN
+
+└── projects/                     # Projets communs FR/EN
 
 \---
 
